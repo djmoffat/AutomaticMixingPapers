@@ -1,6 +1,28 @@
 {
   "entries" : [
     {
+      "title" : "Settings of Reverb Processors from the Perspective of Room Acoustics",
+      "author" : "Malecki, Pawel; Sochaczewska, Katarzyna; Wiciak, Andjerzy",
+      "year" : 2020,
+      "category" : "Reverb",
+      "approach" : "KBS",
+      "pdf" : "http://www.aes.org/e-lib/browse.cfm?elib=20735",
+      "code" : "",
+      "demo" : "",
+      "bibtex" : {
+        "tag" : "article",
+        "cite-key" : "malecki2020settings",
+        "title" : "Settings of Reverb Processors from the Perspective of Room Acoustics",
+        "author" : "Malecki, Pawel and Sochaczewska, Katarzyna and Wiciak, Andjerzy",
+        "journal" : "Journal of the Audio Engineering Society",
+        "volume" : "68",
+        "number" : "4",
+        "pages" : "292--301",
+        "year" : "2020",
+        "url" : "http://www.aes.org/e-lib/browse.cfm?elib=20735"
+      }
+    },
+    {
       "title" : "Automatic mixing: live downmixing stereo panner",
       "author" : "E. Perez Gonzalez and J. D. Reiss",
       "year" : 2007,
